@@ -1,0 +1,8 @@
+<!--pages/boy/boy.wxml-->
+<view class="parent">
+  <view class="list"  wx:for="{{array}}">
+    <image class="nameTag" src="{{item.name}}" background-size="cover"></image>
+  </view>
+</view>
+
+

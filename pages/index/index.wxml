@@ -1,0 +1,24 @@
+<!--index.wxml-->
+<view class="container">
+  <view  bindtap="internetName" class="userinfo" >
+    <text class="userinfo-nickname">{{indexInfo.name1}}</text>
+    <image class="userinfo-avatar" src="{{indexInfo.img1}}" background-size="cover"></image>
+  </view>
+  <view  bindtap="signature" class="userinfo">
+    <text class="userinfo-nickname">{{indexInfo.name2}}</text>
+    <image class="userinfo-avatar" src="{{indexInfo.img2}}" background-size="cover"></image>
+  </view>
+  <view  bindtap="boy" class="userinfo">
+    <text class="userinfo-nickname">{{indexInfo.name4}}</text>
+    <image class="userinfo-avatar" src="{{indexInfo.img4}}" background-size="cover"></image>
+  </view>
+  <view  bindtap="girl" class="userinfo">
+    <text class="userinfo-nickname">{{indexInfo.name5}}</text>
+    <image class="userinfo-avatar" src="{{indexInfo.img5}}" background-size="cover"></image>
+  </view>
+
+  
+  <view class="usermotto">
+    <text class="user-motto">{{motto}}</text>
+  </view>
+</view>

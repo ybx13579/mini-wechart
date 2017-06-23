@@ -1,0 +1,8 @@
+<!--pages/signature/signature.wxml-->
+<view  class="nameTagOt">
+  <view class="list"  wx:for="{{array}}">
+    <image class="nameTag" src="{{nameInfo.img1}}" background-size="cover"></image>
+    <text class="userinfo-nickname" selectable="true">{{item.name}}</text>
+  </view>
+</view>
+

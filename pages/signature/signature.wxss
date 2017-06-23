@@ -1,0 +1,12 @@
+/* pages/signature/signature.wxss */
+.list{
+  padding:10px 40px;
+  border-bottom: 1rpx solid #aaa;
+  line-height: 28px;
+}
+.nameTag{
+  display: inline-block;
+  width:30px;
+  height: 30px;
+  margin-right:20px;
+}

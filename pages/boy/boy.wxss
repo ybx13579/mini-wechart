@@ -1,0 +1,18 @@
+/* pages/boy/boy.wxss */
+.parent{
+  width: 320px;
+  margin: 0 auto;
+}
+.list{
+  width:100px;
+  margin-right: 10px;
+  margin-bottom:10px; 
+  float:left;
+}
+.list:nth-child(3n){
+  margin-right: 0;
+}
+.nameTag{
+  width:100px;
+  height: 100px;
+}

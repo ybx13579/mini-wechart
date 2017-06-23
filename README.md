@@ -6,8 +6,7 @@
 很简单的项目，有网名和短句，自己玩的小项目
 
 
-<img src="show/1.jpg" />
-<img src="show/2.jpg" />
-<br/>
-<img src="show/3.jpg" />
-<img src="show/4.jpg" />
+<img src="show/1.png" />
+<img src="show/2.png" />
+<img src="show/3.png" />
+<img src="show/4.png" />

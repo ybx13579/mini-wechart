@@ -13,8 +13,3 @@
 <img src="show/2.png" />
 <img src="show/3.png" />
 <img src="show/4.png" />
-....
-..
-..
-..
-..

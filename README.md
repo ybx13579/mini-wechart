@@ -1,6 +1,6 @@
 # mini-wechart
 
-名称：杨家姑娘ME
+小程序名称：杨家姑娘ME
 
 
 

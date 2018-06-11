@@ -1,7 +1,7 @@
 <!--pages/boy/boy.wxml-->
 <view class="parent">
-  <view class="list"  wx:for="{{array}}">
-    <image class="nameTag" src="{{item.name}}" background-size="cover"></image>
+  <view class="list" wx:for="{{array}}">
+    <image class="nameTag" src="{{item}}"  data-src="{{item}}" background-size="cover"   mode="aspectFill" bindtap="previewImage" ></image>
   </view>
 </view>
 
